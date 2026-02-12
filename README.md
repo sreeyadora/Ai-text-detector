@@ -89,17 +89,29 @@ Create a folder in your repository:
 ![LLM Rewrite](![WhatsApp Image 2026-01-18 at 3 31 28 PM](https://github.com/user-attachments/assets/b8f6d44c-e704-418d-9397-da9d940597be)
 
 🛠️ Tech Stack
+
 🎨 Frontend
+
 Next.js (App Router)
+
 TailwindCSS
+
 Framer Motion
+
 ⚙️ Backend
+
 FastAPI
+
 Python
+
 🧠 ML / NLP
+
 Scikit-learn
+
 Pandas / NumPy
+
 SHAP
+
 NLTK / SpaCy
 
 📂 Dataset Pipeline
@@ -112,6 +124,7 @@ NLTK / SpaCy
 | dataset_normalized.csv | Final Modeling Dataset       |
 
 🔄 Detection Pipeline
+
 Input Text
    |
 Cleaning & Tokenization
@@ -127,60 +140,90 @@ SHAP Explanation
 Prediction + Probabilities
 
 🚀 Running the Project Locally
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/originai.git
 cd originai
+
 2️⃣ Backend Setup
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+
 Backend runs at:
 👉 http://127.0.0.1:8000
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
+
 Frontend runs at:
 👉 http://localhost:3000
+
 📊 Outputs Provided
 
 🔎 Classification Output
+
 AI vs Human vs LLM-Rewrite Probability
+
 Multi-Class Confidence Score
 
 🧠 SHAP Explainability
+
 Word Importance Contribution
+
 Transparent Decision Insight
 
 📈 Stylometric Metrics
 Word Count
+
 Average Sentence Length
+
 Lexical Diversity
+
 POS Tag Ratios
+
 Flesch Reading Ease
+
 Capital & Digit Ratio
 
 📈 Research Scope
+
 AI Authorship Attribution
+
 Stylometry in NLP
+
 Explainable Machine Learning
+
 AI Transparency
+
 Academic Integrity Tools
 
 🔮 Future Enhancements
 Transformer Models (BERT / RoBERTa)
+
 Multilingual Detection
+
 User Authentication
+
 Cloud Deployment (AWS / GCP)
+
 PDF Batch Uploads
+
 Chrome Extension
+
 Larger & Diverse Dataset
 
 🎓 Academic Use
 This project was developed for:
+
 Final Year Engineering Project
+
 NLP Research
+
 IEEE Student Conference Submission
+
 AI Explainability Demonstrations
 
 👩‍💻 Author
@@ -189,6 +232,7 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 📜 License
 This project is intended for academic and research purposes only.
+
 
 
 
