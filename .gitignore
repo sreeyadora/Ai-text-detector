@@ -1,0 +1,19 @@
+# Python
+venv/
+*/venv/
+__pycache__/
+
+# Node
+node_modules/
+.next/
+
+# ML models
+backend/models/
+backend/ml_model/models/
+*.pkl
+*.pt
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
