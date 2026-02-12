@@ -36,6 +36,7 @@ This project was developed as a final-year research-oriented system with an inte
 🚀 FastAPI Backend
 
 🖥️ System Architecture
+
 Frontend (Next.js)
         |
         v
@@ -50,6 +51,7 @@ Hybrid Detection Engine
         |
         v
 Prediction + Confidence Scores
+
 
 📸 Screenshots
 
@@ -232,6 +234,7 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 📜 License
 This project is intended for academic and research purposes only.
+
 
 
 
