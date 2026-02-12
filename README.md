@@ -35,9 +35,9 @@ This project was developed as a final-year research-oriented system with an inte
 
 🚀 FastAPI Backend
 
-🖥️ System Architecture
+## 🖥️ System Architecture
 
-'''
+```text
 Frontend (Next.js)
         |
         v
@@ -52,37 +52,38 @@ Hybrid Detection Engine
         |
         v
 Prediction + Confidence Scores
-'''
+```
 
 
-📸 Screenshots
+
+### 📸 Screenshots
 
 Create a folder in your repository:
 /screenshots/
 
-🏠 Landing Page
-![Landing Page][WhatsApp Image 2026-01-18 at 3 25 29 PM (1)](https://github.com/user-attachments/assets/e2724abb-cd0b-4cc4-bf41-6e17f12299d0)
+### 🏠 Landing Page
+![Landing Page]![WhatsApp Image 2026-01-18 at 3 25 29 PM (1)](https://github.com/user-attachments/assets/e2724abb-cd0b-4cc4-bf41-6e17f12299d0)
 
-🤔 Why OriginAI?
-![Why OriginAI][WhatsApp Image 2026-01-18 at 3 25 49 PM (1)](https://github.com/user-attachments/assets/cf21162a-57d0-4e48-b570-d30e3c6638b1)
+### 🤔 Why OriginAI?
+![Why OriginAI]![WhatsApp Image 2026-01-18 at 3 25 49 PM (1)](https://github.com/user-attachments/assets/cf21162a-57d0-4e48-b570-d30e3c6638b1)
 
-📊 Analysis Dashboard
-![Dashboard][WhatsApp Image 2026-01-18 at 3 26 19 PM (1)](https://github.com/user-attachments/assets/cf1f37c7-3e99-486a-bc8d-dd0edf6317a5)
+### 📊 Analysis Dashboard
+![Dashboard]![WhatsApp Image 2026-01-18 at 3 26 19 PM (1)](https://github.com/user-attachments/assets/cf1f37c7-3e99-486a-bc8d-dd0edf6317a5)
 
-⚙️ Settings Page
-![Settings][WhatsApp Image 2026-01-18 at 3 26 41 PM (1)](https://github.com/user-attachments/assets/1061eac1-a368-4629-a481-d056d3c70392)
+### ⚙️ Settings Page
+![Settings]![WhatsApp Image 2026-01-18 at 3 26 41 PM (1)](https://github.com/user-attachments/assets/1061eac1-a368-4629-a481-d056d3c70392)
 
-🕘 History Tracking
-![History][WhatsApp Image 2026-01-18 at 3 27 08 PM (1)](https://github.com/user-attachments/assets/9ad7e1d4-e5e5-4fbb-baed-1ece4fe87307)
+### 🕘 History Tracking
+![History]![WhatsApp Image 2026-01-18 at 3 27 08 PM (1)](https://github.com/user-attachments/assets/9ad7e1d4-e5e5-4fbb-baed-1ece4fe87307)
 
-🧍 Human Prediction Output
-![Human Result][WhatsApp Image 2026-01-18 at 3 29 10 PM](https://github.com/user-attachments/assets/442e896f-93cd-41fc-a288-741a687e83a5)
+### 🧍 Human Prediction Output
+![Human Result]![WhatsApp Image 2026-01-18 at 3 29 10 PM](https://github.com/user-attachments/assets/442e896f-93cd-41fc-a288-741a687e83a5)
 
-🤖 AI Prediction Output
-![AI Result][WhatsApp Image 2026-01-18 at 3 29 48 PM](https://github.com/user-attachments/assets/afad791d-21b1-4ff7-8f4e-7948f775095b)
+#### 🤖 AI Prediction Output
+![AI Result]![WhatsApp Image 2026-01-18 at 3 29 48 PM](https://github.com/user-attachments/assets/afad791d-21b1-4ff7-8f4e-7948f775095b)
 
-✍️ LLM-Rewritten Detection
-![LLM Rewrite][WhatsApp Image 2026-01-18 at 3 31 28 PM](https://github.com/user-attachments/assets/b8f6d44c-e704-418d-9397-da9d940597be)
+### ✍️ LLM-Rewritten Detection
+![LLM Rewrite]![WhatsApp Image 2026-01-18 at 3 31 28 PM](https://github.com/user-attachments/assets/b8f6d44c-e704-418d-9397-da9d940597be)
 
 🛠️ Tech Stack
 
@@ -228,6 +229,7 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 📜 License
 This project is intended for academic and research purposes only.
+
 
 
 
