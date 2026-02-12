@@ -1,5 +1,6 @@
 🧠 OriginAI — AI vs Human Text Detection Platform
 Know the true origin of every text.
+
 🧠 Multi-Class AI Text Detection System that classifies text as Human-Written, AI-Generated, or LLM-Rewritten using Stylometry + Machine Learning + SHAP Explainability. Built with FastAPI & Next.js.
 
 OriginAI is a full-stack AI detection platform that classifies whether a given piece of text is:
@@ -188,6 +189,7 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 📜 License
 This project is intended for academic and research purposes only.
+
 
 
 
