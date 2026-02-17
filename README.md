@@ -85,6 +85,23 @@ Create a folder in your repository:
 ### ✍️ LLM-Rewritten Detection
 ![LLM Rewrite]![WhatsApp Image 2026-01-18 at 3 31 28 PM](https://github.com/user-attachments/assets/b8f6d44c-e704-418d-9397-da9d940597be)
 
+
+## 🎥 Project Demo Video
+
+Watch the full demo of ORIGIN AI:
+
+▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1A4MIKhlJDqeLmDVuXoxhKSwUNHF8V6n2/view?usp=sharing)
+
+---
+
+This video demonstrates:
+
+• Multi-class AI text detection  
+• Human vs AI vs LLM Rewritten classification  
+• Full-stack integration (FastAPI + Next.js)  
+• Real-time prediction system  
+
+
 🛠️ Tech Stack
 
 🎨 Frontend
@@ -229,6 +246,7 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 📜 License
 This project is intended for academic and research purposes only.
+
 
 
 
